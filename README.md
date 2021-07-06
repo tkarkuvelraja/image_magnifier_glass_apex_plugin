@@ -1,6 +1,6 @@
 # Oracle APEX Plug-In: Image Magnifier Glass
 
-A plug in to enlarge a image using lens or mirror (glass). Credits goes to **W3schools**
+A plug in to enlarge a image using lens or mirror (glass). Credits goes to **W3schools**.
 
 Demo Application: https://apex.oracle.com/pls/apex/f?p=133110:9999::BRANCH_TO_PAGE_ACCEPT::9999:P9999_APP_PAGE_REDIRECT:9
 
