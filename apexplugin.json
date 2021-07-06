@@ -1,7 +1,7 @@
 {
   "name" : "Image Magnifier Glass",
   "version" : "1.0",
-  "description" : "A plugin to enlarge a image using lense or mirror (glass).",
+  "description" : "A plugin to enlarge a image using lens or mirror (glass).",
   "keywords" : ["Magnifier Glass","Enlarge a Image","Image Magification", "Item"],
   "homepage" : "https://github.com/tkarkuvelraja/image_magnifier_glass_apex_plugin",
   "bugs" : {
