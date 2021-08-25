@@ -227,7 +227,7 @@ unistr('              <img id="myimage_''||l_page_item_name||''" src="''||nvl(l_
 ,p_substitute_attributes=>true
 ,p_subscribe_plugin_settings=>true
 ,p_version_identifier=>'1.0'
-,p_about_url=>'https://github.com/tkarkuvelraja/image_magnifier_glass_region_apex_plugin'
+,p_about_url=>'https://github.com/tkarkuvelraja/image_magnifier_glass_apex_plugin'
 ,p_files_version=>8
 );
 wwv_flow_api.create_plugin_attribute(
